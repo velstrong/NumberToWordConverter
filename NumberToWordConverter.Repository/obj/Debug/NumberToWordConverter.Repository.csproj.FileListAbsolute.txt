@@ -1,0 +1,5 @@
+C:\Users\HP-PC\documents\visual studio 2015\Projects\NumberToWordConverter\NumberToWordConverter.Repository\bin\Debug\NumberToWordConverter.Repository.dll
+C:\Users\HP-PC\documents\visual studio 2015\Projects\NumberToWordConverter\NumberToWordConverter.Repository\bin\Debug\NumberToWordConverter.Repository.pdb
+C:\Users\HP-PC\documents\visual studio 2015\Projects\NumberToWordConverter\NumberToWordConverter.Repository\obj\Debug\NumberToWordConverter.Repository.csprojResolveAssemblyReference.cache
+C:\Users\HP-PC\documents\visual studio 2015\Projects\NumberToWordConverter\NumberToWordConverter.Repository\obj\Debug\NumberToWordConverter.Repository.dll
+C:\Users\HP-PC\documents\visual studio 2015\Projects\NumberToWordConverter\NumberToWordConverter.Repository\obj\Debug\NumberToWordConverter.Repository.pdb
